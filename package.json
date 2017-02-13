@@ -1,5 +1,5 @@
 {
-  "name": "polymer-cli",
+  "name": "poly-cli",
   "version": "1.0.1",
   "description": "searches for files",
   "scripts": {
@@ -9,6 +9,6 @@
   "license": "ISC",
   "preferGlobal": true,
   "bin": {
-    "polymer-cli": "index.js"
+    "poly-cli": "index.js"
   }
 }
